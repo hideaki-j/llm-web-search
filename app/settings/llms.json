@@ -1,0 +1,9 @@
+{
+  "model": {
+    "name": "deepseek/deepseek-chat",
+    "pricing": {
+      "input": 0.14,
+      "output": 0.28
+    }
+  }
+}

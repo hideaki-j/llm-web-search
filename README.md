@@ -27,6 +27,7 @@ python app/app.py
 Open your browser and navigate to:
 ```
 http://localhost:5050
+```
 
 ## API Keys
 

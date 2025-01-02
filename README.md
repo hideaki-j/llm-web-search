@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ## How to Run
 ```bash
-python app/api_handler.py
+python app/app.py
 ```
 
 ## How to Access
